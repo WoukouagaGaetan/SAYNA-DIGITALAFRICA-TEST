@@ -1,0 +1,123 @@
+@font-face {
+  font-family: "FarFromHomecoming";
+  src: url("Typo-FarFromHomecoming.woff2") format("woff2");
+}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
+
+.en-tete {
+      background-color: #B11313;
+      padding-left: 70px;
+}
+
+a,p {
+
+  font-family:'Montserrat',cursive ;
+}
+h3 {
+  font-family: "FarFromHomecoming";
+  color: white;
+}
+h1 {
+  font-family: "FarFromHomecoming";
+  width: 300px;
+  color: white;
+}
+.landing-page {
+  background: url("Illustration/img1.png");
+  background-size: cover;
+  height: 115vh;
+ 
+
+}
+.affiche {
+  background-color: #B11313;
+}
+.card {
+  background-color: #B11313;
+  border: none;
+  padding: 30px;
+}
+.card-body {
+  margin-top: 30px;
+}
+.card-text {
+  margin-top: 30px;
+  font-family:'Montserrat',cursive ;
+}
+.service {
+  background-color: #114c92;
+}
+.form {
+  border-radius: 20px;
+  width: 350px;
+}
+.formu {
+  
+}
+.inscription {
+  background-color: #B11313;
+}
+.img2 {
+  width: 100%;
+  text-align: end;
+}
+.pol {
+  text-decoration: underline;
+  
+}
+.pol1 {
+  color: white;
+}
+
+.footer {
+  padding: 30px;
+  height: auto;
+  width: 100%;
+  background-color: black;
+}
+
+
+.link {
+  color: white;
+  font-size: 10px;
+  text-decoration: none;
+  margin: 40px;
+}
+
+
+.choose {
+  background-color: red;
+  border: none;
+  border-radius: 15px;
+  width: 155px;
+}
+
+.text-select {
+  color: white;
+}
+
+.row-footer2 {
+  padding: 80px;
+  text-align: center;
+}
+
+.toff {
+  background-color: red;
+  border-radius: 13px;
+}
+
+.text-end {
+  margin-top: 30px;
+  opacity: 0.4;
+}
+.bout {
+  position: relative;
+  left: 50px;
+}
+
+.acc {
+  position: relative;
+  top: 200px;
+}
